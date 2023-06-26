@@ -8,4 +8,4 @@ Whenever this module is updated, both the Github tag must be incremented to matc
 | Version |     Contributor     |          Description           |
 |---------|---------------------|--------------------------------|
 | 1.0.0   | Daniel Quinones     | Initial Module                 |
-
+| 1.1.0   | Daniel Quinones     | Update S3 Security Policy      |
